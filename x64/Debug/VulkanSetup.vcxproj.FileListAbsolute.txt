@@ -1,0 +1,2 @@
+C:\Users\ramim\source\repos\important\projects\Vulkan\VulkanSetup\x64\Debug\VulkanSetup.exe
+C:\Users\ramim\source\repos\important\projects\VulkanPrefab\VulkanSetup\x64\Debug\VulkanSetup.exe
